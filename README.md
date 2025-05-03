@@ -4,7 +4,7 @@
 
 This project is a data-driven Excel dashboard designed to analyze pizza sales over a specific period. The dashboard captures key performance indicators, sales trends, product performance by category and size, and identifies best/worst-selling pizzas to assist the business in making strategic decisions.
 
-**To ensure accuracy and consistency of the KPIs and visualizations in the dashboard, all metrics were verified using SQL queries which are documented in the word file - **
+**To ensure accuracy and consistency of the KPIs and visualizations in the dashboard, all metrics were verified using SQL queries which are documented in the word file - [Pizza Sales SQL queries](https://github.com/Rakhi-Pundhir/excel/blob/main/Pizza%20Sales%20SQL%20queries.docx)**
 
 ---
 
